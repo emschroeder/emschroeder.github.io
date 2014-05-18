@@ -87,6 +87,12 @@ a:hover {
   transition: .25s ease-in-out;
 }
 
+.lost {
+    border-radius: 5px;
+  border: 8px solid #77A490;
+  width: 75%;
+  margin-left: 125px;
+}
 
 .profilepic {
   margin: 0px;
